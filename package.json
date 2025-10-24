@@ -1,0 +1,9 @@
+{
+  "name": "expense-tracker-backend",
+  "version": "1.0.0",
+  "description": "Family Expense Tracker Backend",
+  "scripts": {
+    "start": "mvn spring-boot:run",
+    "build": "mvn clean package"
+  }
+}
